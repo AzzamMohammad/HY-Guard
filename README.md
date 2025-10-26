@@ -4,18 +4,18 @@
 
 Welcome to **Hy Guard** 🧭  
 A modern Flutter-based application designed to securely store and organize your important files.  
-It delivers a **premium user experience inspired by Samsung Files**, with attention to every detail of **UI / UX**.
+It delivers a **premium user experience inspired by **Samsung File App**, with attention to every detail of **UI / UX**.
 
+---
 
 ## 🎯 Purpose
 **Hy Guard** provides a reliable and safe digital vault for your private data.  
 It allows you to:
 - Securely store and organize sensitive files.
 - Remove them from device storage while keeping them accessible inside the app.  
-- Manage files in a tree-structured, user-friendly interface similar to Samsung’s file manager.
+- Manage files in a tree-structured, user-friendly interface similar to **Samsung File App** manager.
 
-
-  ---
+---
 
 ## 🌟 Key Features
 ✨ **User Login & Account Persistence**  
@@ -72,8 +72,20 @@ Quickly access your most recently opened files.
 
 ---
 
-## 🎥 App Demo
+## 📌 Project Links
 
-Watch a short demo showcasing **Hy Guard** features and UI in action 👇  
+- 🎬 Watch a short demo showcasing  [HY Guard Demo](https://youtu.be/OUJ6wYuagaY)
+- 📱 Download and install the app  [HY Guard APK](https://drive.google.com/file/d/1zbd4FD2tRU5J_VZ24XNjn5mbrhT5UiiJ/view?usp=drive_link)
+
+---
+
+## 📫 Get in Touch
+
+I’m happy to connect for questions, feedback, or collaboration opportunities:
+
+- [LinkedIn](https://www.linkedin.com/in/azzam-mohammad-1359ab218/) 
+- [Email](azzammo954@gmail.com)
+- [profile](https://sites.google.com/view/eng-azzam-mohammad/about-me)
+
 
 

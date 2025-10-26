@@ -1,0 +1,461 @@
+{
+    "sign_up":"Sign up",
+        "@language":{
+            "description":"Sign up"
+        },
+
+    "user_name":"User name",
+          "@language":{
+              "description":"user name"
+          },
+
+    "email":"Email",
+          "@language":{
+              "description":"email"
+          },
+
+    "password":"Password",
+          "@language":{
+              "description":"password"
+          },
+
+    "or_continue_with":"OR continue with",
+          "@language":{
+              "description":"or continue with"
+          },
+
+    "already_have_an_account":"Already have an account?",
+          "@language":{
+              "description":"already have an account"
+          },
+
+    "sign_in":"Sign in",
+          "@language":{
+              "description":"sign in"
+          },
+
+    "continue_as_guest":"Continue as a guest",
+          "@language":{
+              "description":"sign in"
+          },
+
+    "please_enter_your_username":"Please enter your username",
+          "@language":{
+              "description":"Please enter your username"
+          },
+
+    "please_enter_your_email":"Please enter your email",
+          "@language":{
+              "description":"Please enter your email"
+          },
+
+    "please_enter_your_password":"Please enter your password",
+          "@language":{
+              "description":"Please enter your password"
+          },
+
+    "invalid_email_format":"Invalid email format",
+          "@language":{
+              "description":"Invalid email format"
+          },
+
+    "password_must_be_more_than_8_characters":"Password must be more than 8 characters",
+          "@language":{
+              "description":"Password must be more than 8 characters"
+          },
+
+    "password_must_contain_at_least_one_symbol":"Password must contain at least one symbol",
+          "@language":{
+              "description":"Password must contain at least one symbol"
+          },
+
+    "create_new_account":"Create new account?",
+          "@language":{
+              "description":"Create new account"
+          },
+
+    "an_error_happen":"An error happen",
+          "@language":{
+              "description":"an error happen ,Please try agen"
+          },
+
+    "forgot_password":"Forgot password",
+          "@language":{
+              "description":"forgot password"
+          },
+
+    "we_will_send_an_email_with_a_reset_link_to_the_entered_address":"We will send an email with a reset link to the entered address",
+          "@language":{
+              "description":"We will send an email with a reset link to the entered address"
+          },
+
+    "reset_password":"Reset password",
+          "@language":{
+              "description":"reset password"
+          },
+
+    "the_email_has_been_sent_successfully_to_the_entered_address":"The email has been sent successfully to the entered address",
+          "@language":{
+              "description":"The email has been sent successfully to the entered address"
+          },
+
+    "locale_storage":"Locale storage",
+          "@language":{
+              "description":"locale_storage"
+          },
+
+    "cloud":"Cloud",
+          "@language":{
+              "description":"cloud"
+          },
+
+    "home":"Home",
+          "@language":{
+              "description":"home"
+          },
+
+    "settings":"Settings",
+          "@language":{
+              "description":"settings"
+          },
+
+    "profile":"Profile",
+          "@language":{
+              "description":"profile"
+          },
+
+    "new_password":"New password",
+          "@language":{
+              "description":"new password"
+          },
+
+    "new_text_file":"New text file",
+          "@language":{
+              "description":"new text file"
+          },
+
+    "latest":"The latest",
+          "@language":{
+              "description":"the latest files"
+          },
+
+    "file_name":"File name",
+          "@language":{
+              "description":"file name"
+          },
+
+    "error_in_loading_data":"Error in loading data",
+          "@language":{
+              "description":"file name"
+          },
+
+    "folder":"Folder",
+          "@language":{
+              "description":"folder"
+          },
+
+    "cancel":"Cancel",
+          "@language":{
+              "description":"cancel"
+          },
+
+    "create":"Create",
+          "@language":{
+              "description":"create"
+          },
+
+    "create_folder":"Create folder",
+          "@language":{
+              "description":"create folder"
+          },
+
+    "folder_name_already_in_use":"Folder name already in use",
+          "@language":{
+              "description":"folder_name_already_in_use"
+          },
+
+    "all":"All",
+          "@language":{
+              "description":"all"
+          },
+
+    "selected":"Selected",
+          "@language":{
+              "description":"selected"
+          },
+
+    "move":"Move",
+          "@language":{
+              "description":"move"
+          },
+
+    "copy":"Copy",
+          "@language":{
+              "description":"copy"
+          },
+
+    "share":"Share",
+          "@language":{
+              "description":"share"
+          },
+
+    "delete":"Delete",
+          "@language":{
+              "description":"delete"
+          },
+
+    "more":"More",
+          "@language":{
+              "description":"more"
+          },
+
+    "empty_folder":"Empty folder",
+          "@language":{
+              "description":"empty folder"
+          },
+
+    "item":"Item",
+          "@language":{
+              "description":"item"
+          },
+
+    "move_here":"Move here",
+          "@language":{
+              "description":"move_here"
+          },
+
+    "rename_folder_or_replace_existing_one":"Rename folder or replace existing one?",
+          "@language":{
+              "description":"rename_folder_or_replace_existing_one"
+          },
+
+    "you_already_have_a_folder_named":"You already have a folder named",
+          "@language":{
+              "description":"you_already_have_a_folder_named"
+          },
+
+    "in_the_destination_folder":"in the destination folder.",
+          "@language":{
+              "description":"in_the_destination_folder"
+          },
+
+    "do_this_for_all_similar_items":"Do this for all similar items",
+          "@language":{
+              "description":"do_this_for_all_similar_items"
+          },
+
+    "skip":"skip",
+          "@language":{
+              "description":"skip"
+          },
+
+    "replace":"Replace",
+          "@language":{
+              "description":"replace"
+          },
+
+    "rename":"Rename",
+          "@language":{
+              "description":"rename"
+          },
+
+    "move_completed":"Move completed",
+          "@language":{
+              "description":"move_completed"
+          },
+
+    "replace_completed":"Replace completed",
+          "@language":{
+              "description":"replace_completed"
+          },
+
+    "rename_completed":"Rename completed",
+          "@language":{
+              "description":"rename_completed"
+          },
+
+    "confirm":"Confirm",
+          "@language":{
+              "description":"confirm"
+          },
+
+    "are_you_sure":"Are you sure?",
+          "@language":{
+              "description":"are_you_sure"
+          },
+
+    "if_you_delete_the_item_you_will_not_be_able_to_restore_it":"If you delete the item, you will not be able to restore it.",
+          "@language":{
+              "description":"if_you_delete_the_item_you_will_not_be_able_to_restore_it"
+          },
+
+    "details":"Details",
+          "@language":{
+              "description":"details"
+          },
+
+    "some_files_can_not_saved":"Some files can not be saved. pleas try agen",
+          "@language":{
+              "description":"Some files can not be saved. pleas try agen"
+          },
+
+    "files_saved_successfully":"Files saved successfully",
+          "@language":{
+              "description":"files_saved_successfully"
+          },
+
+    "delete_completed":"Delete completed",
+         "@language":{
+              "description":"delete_completed"
+         },
+
+    "copy_completed":"Copy completed",
+          "@language":{
+             "description":"copy_completed"
+         },
+
+    "folder_name_cannot_be_empty_or_only_whitespace":"Folder name cannot be empty or only whitespace",
+          "@language":{
+              "description":"folder_name_cannot_be_empty_or_only_whitespace"
+          },
+
+    "folder_name_cannot_start_with_a_dot":"Folder name cannot start with a dot",
+          "@language":{
+              "description":"folder_name_cannot_start_with_a_dot"
+          },
+
+    "folder_name_contains_invalid_characters":"Folder name contains invalid characters",
+          "@language":{
+              "description":"folder_name_contains_invalid_characters"
+          },
+
+    "folder_name_is_too_long":"Folder name is too long",
+          "@language":{
+              "description":"folder_name_is_too_long"
+          },
+
+    "search":"Search",
+          "@language":{
+              "description":"search"
+          },
+
+    "filters":"Filters",
+          "@language":{
+              "description":"filters"
+          },
+
+    "types":"Types",
+          "@language":{
+              "description":"types"
+          },
+
+    "recent_searches":"Recent searches",
+          "@language":{
+              "description":"recent_searches"
+          },
+
+    "clear_all":"clear all",
+          "@language":{
+              "description":"clear_all"
+          },
+
+    "no_results_found":"No results found",
+          "@language":{
+              "description":"no_results_found"
+          },
+
+    "images":"Images",
+          "@language":{
+              "description":"image"
+          },
+
+    "videos":"Videos",
+          "@language":{
+              "description":"video"
+          },
+
+    "audios":"Audios",
+          "@language":{
+              "description":"audio"
+          },
+
+    "documents":"Documents",
+          "@language":{
+              "description":"document"
+          },
+
+    "installation_files":"Installation files",
+          "@language":{
+              "description":"installation_files"
+          },
+
+    "other_files":"Other files",
+          "@language":{
+              "description":"other_files"
+          },
+
+    "recent_files":"Recent files",
+          "@language":{
+              "description":"recent_files"
+          },
+
+    "storage":"Storage",
+          "@language":{
+              "description":"storage"
+          },
+
+    "categories":"Categories",
+          "@language":{
+              "description":"categories"
+          },
+
+    "utilities":"Utilities",
+          "@language":{
+              "description":"Utilities"
+          },
+
+    "recycle_bin":"Recycle bin",
+          "@language":{
+              "description":"recycle_bin"
+          },
+
+    "not_connected":"Not connected",
+          "@language":{
+              "description":"not_connected"
+          },
+
+    "add_file":"Add file",
+          "@language":{
+              "description":"add_file"
+          },
+
+    "clear_recent_files_list":"Clear recent files list",
+          "@language":{
+              "description":"clear_recent_files_list"
+          },
+
+    "recent_files_list_cleared_successfully":"Recent files list cleared successfully",
+          "@language":{
+              "description":"recent_files_list_cleared_successfully"
+          },
+
+    "size":"Size",
+          "@language":{
+              "description":"size"
+          },
+
+    "initial_date":"Initial date",
+          "@language":{
+              "description":"initial_date"
+          },
+
+    "path":"Path",
+          "@language":{
+              "description":"path"
+          },
+
+    "select_folder":"Select folder",
+          "@language":{
+              "description":"Select folder"
+          }
+}

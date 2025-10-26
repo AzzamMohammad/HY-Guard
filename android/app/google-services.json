@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "334546407304",
+    "project_id": "fire-base-test-6cd6c",
+    "storage_bucket": "fire-base-test-6cd6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334546407304:android:7616521786243c942db43d",
+        "android_client_info": {
+          "package_name": "com.example.hy_guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334546407304-p36nioephp1gquj3mpn56f4mku48n7mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hy_guard",
+            "certificate_hash": "313752ca7dc7a6631bb208bc2719f7eb725725f6"
+          }
+        },
+        {
+          "client_id": "334546407304-unnfbktp718n2amo0ths1vejvtor6ef4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hy_guard",
+            "certificate_hash": "076a0f5e47ea0119780cb83c57b74a48dec1c4cc"
+          }
+        },
+        {
+          "client_id": "334546407304-ppmtkahi01orvfqs5tfgtimtl12d12hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMxlU0Kr4eklwc4EZKlOwvJpJSmeBoQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334546407304-ppmtkahi01orvfqs5tfgtimtl12d12hn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334546407304-m51umdvjlql5vl32v5u3e8cnpeeuiu8c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hyGuard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

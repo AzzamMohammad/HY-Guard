@@ -1,0 +1,4 @@
+enum StorageType{
+  locale,
+  cloud,
+}

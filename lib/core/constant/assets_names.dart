@@ -1,0 +1,29 @@
+class AssetsNames{
+  static const String hyGuardAppIcon = "assets/images/hy_guard_app_icon.png";
+  static const String googleIcon = "assets/icons/google_icon.png";
+  static const String facebookIcon = "assets/icons/facebook_icon.png";
+  static const String settingsIcon = "assets/icons/settings_icon.png";
+  static const String cloudIcon = "assets/icons/cloud_icon.png";
+  static const String localeStorageIcon = "assets/icons/locale_storage_icon.png";
+  static const String textFileIcon = "assets/images/text_file_icon.png";
+  static const String folderIcon = "assets/icons/folder_icon.png";
+  static const String homeFolderIcon = "assets/icons/home_folder_icon.png";
+  static const String unknownFileIcon = "assets/icons/unknown_file.png";
+  static const String moveFolderContentIcon = "assets/icons/move_folder_content.png";
+  static const String deleteIcon = "assets/icons/delete_icon.png";
+  static const String copyIcon = "assets/icons/copy_icon.png";
+  static const String shareIcon = "assets/icons/share_icon.png";
+  static const String menuIcon = "assets/icons/menu_icon.png";
+  static const String audioFileIcon = "assets/icons/audio_file_icon.png";
+  static const String recordeFileIcon = "assets/icons/recorde_file_icon.png";
+  static const String videoFileIcon = "assets/icons/video_file_icon.png";
+  static const String pdfFileIcon = "assets/icons/pdf_file_icon.png";
+  static const String imagePlaceholderIcon = "assets/icons/image_placeholder_icon.png";
+  static const String imageCategoryIcon = "assets/icons/image_category_icon.png";
+  static const String videoCategoryIcon = "assets/icons/video_category_icon.png";
+  static const String documentCategoryIcon = "assets/icons/document_ecategory_icon.png";
+  static const String apkCategoryIcon = "assets/icons/apk_category_icon.png";
+  static const String otherCategoryIcon = "assets/icons/other_files_category_icon.png";
+  static const String audioCategoryIcon = "assets/icons/audio_category_icon.png";
+  static const String recentFilesIcon = "assets/icons/recent_files_icon.png";
+}
